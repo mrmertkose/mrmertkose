@@ -1,7 +1,5 @@
 <h2 align="center">Hi 👋, I'm Mert</h2>
 
-- 📫 How to reach me **mertkoseweb@gmail.com**
-
 <h4 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kosemert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kosemert" height="25" width="20" /></a>
